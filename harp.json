@@ -1,0 +1,20 @@
+{
+  "globals": {
+    "site_name": "Punjabi Music Worldwide",
+    "tag_line": "Saving punjabi music industry.",
+    "email": "punjabimusicworldwide@gmail.com",
+    "twitter": "punjabimusicworldwide",
+    "facebook": "punjabimusicworldwide",
+    "partners": [
+      {"title": "UK Music Records", "image": "pic01.jpg"},
+      {"title": "Speed Records", "image": "pic01.jpg"},
+      {"title": "Amar Audio", "image": "pic01.jpg"},
+      {"title": "Desi Beats Records", "image": "pic01.jpg"},
+      {"title": "Vehli Janta Records", "image": "pic01.jpg"},
+      {"title": "Shemarqq Entertainments", "image": "pic01.jpg"},
+      {"title": "Fine Touch", "image": "pic01.jpg"},
+      {"title": "Lokdhun Punjabi", "image": "pic01.jpg"},
+      {"title": "Crown Records", "image": "pic01.jpg"}
+    ]
+  }
+}
