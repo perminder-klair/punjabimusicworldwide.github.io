@@ -1,5 +1,11 @@
 # punjabimusicworldwide.org official site
 
+## To dev run
+
+```
+harp server --port 9000 _harp
+```
+
 ## To compile
 
 ```
